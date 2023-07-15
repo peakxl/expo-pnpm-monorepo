@@ -86,7 +86,7 @@ importers:
     specifiers:
       '@acme/eslint-config': '*'
       '@acme/ui': '*'
-      '@testing-library/react-native': ^11.5.4
+      '@testing-library/react-native': ^12.0.0
       '@tsconfig/recommended': ^1.0.2
       '@types/jest': ^29.5.2
       '@types/react': ~18.2.14
@@ -102,7 +102,7 @@ importers:
       '@acme/ui': link:../ui
     devDependencies:
       '@acme/eslint-config': link:../eslint-config
-      '@testing-library/react-native': 11.5.4_xr6r2n3impnp362btosjiv2t7q
+      '@testing-library/react-native': 12.1.2_xr6r2n3impnp362btosjiv2t7q
       '@tsconfig/recommended': 1.0.2
       '@types/jest': 29.5.2
       '@types/react': 18.2.14
@@ -118,7 +118,7 @@ importers:
   packages/ui:
     specifiers:
       '@acme/eslint-config': '*'
-      '@testing-library/react-native': ^11.5.4
+      '@testing-library/react-native': ^12.0.0
       '@tsconfig/recommended': ^1.0.2
       '@types/jest': ^29.5.2
       '@types/react': ~18.2.14
@@ -132,7 +132,7 @@ importers:
       tsup: ^7.0.0
     devDependencies:
       '@acme/eslint-config': link:../eslint-config
-      '@testing-library/react-native': 11.5.4_xr6r2n3impnp362btosjiv2t7q
+      '@testing-library/react-native': 12.1.2_xr6r2n3impnp362btosjiv2t7q
       '@tsconfig/recommended': 1.0.2
       '@types/jest': 29.5.2
       '@types/react': 18.2.14
@@ -4660,8 +4660,8 @@ packages:
       tslib: 2.6.0
     dev: false
 
-  /@testing-library/react-native/11.5.4_xr6r2n3impnp362btosjiv2t7q:
-    resolution: {integrity: sha512-6DRzMHqili5pp1JRm7fh80SAP48aR25b37gohlLoKbqGBpDw8BbZTad7Luzktm9MU5DQUm7xyzg07Z1CyveVFA==}
+  /@testing-library/react-native/12.1.2_xr6r2n3impnp362btosjiv2t7q:
+    resolution: {integrity: sha512-5rQMQpbSQAuJc4TxjTt1IoeT1a5eVXaa61hf/YcjV2QtGqCoyhuW8DvhTowrL7y2Ds4NzuYBmbVxjNPR6GIblw==}
     peerDependencies:
       jest: '>=28.0.0'
       react: '>=16.8.0'
