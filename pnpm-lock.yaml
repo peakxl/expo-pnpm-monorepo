@@ -21,7 +21,7 @@ importers:
       babel-preset-expo: ~9.5.0
       expo: ^48.0.19
       expo-dev-client: ~2.4.3
-      expo-status-bar: ~1.6.0
+      expo-status-bar: ~1.7.0
       expo-updates: ~0.18.7
       react: 18.2.0
       react-dom: 18.2.0
@@ -31,7 +31,7 @@ importers:
       '@acme/feature-home': link:../../packages/feature-home
       expo: 48.0.19_@babel+core@7.22.5
       expo-dev-client: 2.4.3_expo@48.0.19
-      expo-status-bar: 1.6.0
+      expo-status-bar: 1.7.1
       expo-updates: 0.18.7_expo@48.0.19
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
@@ -7229,8 +7229,8 @@ packages:
       invariant: 2.2.4
     dev: false
 
-  /expo-status-bar/1.6.0:
-    resolution: {integrity: sha512-e//Oi2WPdomMlMDD3skE4+1ZarKCJ/suvcB4Jo/nO427niKug5oppcPNYO+csR6y3ZglGuypS+3pp/hJ+Xp6fQ==}
+  /expo-status-bar/1.7.1:
+    resolution: {integrity: sha512-Wkm9uCmuQQBSU+l/AekWAQ1d0FYw560yL116+OAKJDyKBOUpPURoWkFbabM1EDxv+5scTuSThr/CvsA0nsSCow==}
     dev: false
 
   /expo-structured-headers/3.3.0:
